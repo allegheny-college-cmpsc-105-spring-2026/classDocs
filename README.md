@@ -14,8 +14,8 @@
 - Hang Zhao
 - Email: hzhao@allegheny.edu
 - Office Hours:
-  - Tu/Thur 11:00am-12:30pm, 4:30pm-5:00pm. Location: Alden Hall 105
-  - W 10:00am-12:00pm. Location: Virtual
+  - Tu/Thur 11:00am-12:30pm. Location: Alden Hall 105
+  - W 10:00am-1:00pm. Location: Virtual
   
 - By appointment: 
     - Schedule [here](https://calendar.app.google/PD6Ku9PSCZ716K5D7) 
