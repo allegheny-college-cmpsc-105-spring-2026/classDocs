@@ -85,7 +85,7 @@ These topics fall into categories of data display, data gathering, data processi
 | Lab 5 (Data Entry) | Week 6 | Due Feb 24, 11:59 PM |
 | Lab 6 (Data Analytics) | Week 7 | Due Mar 17, 11:59 PM |
 | Lab 7 (Data Wrangling) | Week 9 | Due Mar 30, 11:59 PM |
-| Final Project Proposal | Week 10 | Due April 7, 11:59 PM |
+| Final Project Launch | Week 10 | Due April 7, 11:59 PM |
 | Lab 8 (Data Relationships ) | Week 11 | Due April 21, 11:59 PM |
 
 ## <span style="color:gray">Resources</span>
