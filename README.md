@@ -183,13 +183,13 @@ git push
 ```
 
 ## [Discord](https://discord.com/)
-- If you are already on the department's Discord server, you will be added to the course's Discord channel `#database-systems`.
-- If not, join the [department's Discord server](https://discord.gg/a2FtTCJK) before you can be added to the course's channel.
+- If you are already on the department's Discord server, you will be added to the course's Discord channel `#data-exploration`.
+- If not, join the [department's Discord server](https://discord.gg/XxrsVXhS) before you can be added to the course's channel.
 - During the first week, your name will be manually added to the class's Discord channel.
 
 ## ClassDocs Repository
 All materials provided in class will be accessible using the classDocs/ repository.
-Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-305-Fall-2025/classDocs)
+Main site on GitHub: [classDocs](https://github.com/allegheny-college-cmpsc-105-spring-2026/classDocs)
 
 ## [Course Policies](https://www.cis.allegheny.edu/teaching/policies/)
 
