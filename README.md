@@ -54,7 +54,7 @@ This course will primarily focus on methods of data collection, foundational dat
 ### Lectures  
 | Topic | Week | Notes |
 |-------|------|-------|
-| Welcome, Syllabus and Setup | Week 1 | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeUh1vSglBXqVg6q4hy0100UNiydjKdj9TgQhf8WbC4U2IbDg/viewform?usp=sharing&ouid=103917440767036558099), [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html), [Matplotlib](https://matplotlib.org/stable/gallery/index.html) |
+| Welcome, Syllabus and Setup | Week 1 | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdp3h7-MhMuxsyY6wLbIIAlSMkFo9LOWDGZfgI78MylSQvLXQ/viewform?usp=sharing&ouid=103917440767036558099), [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html), [Matplotlib](https://matplotlib.org/stable/gallery/index.html) |
 | Data Display - Types and Anatomy of a Chart | Week 2 | Reading: [Making Sense of Data II, Chapter 2, p. 19-32](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=427614&ppg=35&c=UERG) |
 | Data Distortion | Week 3 | |
 | Data Filtering | Week 4 | |
