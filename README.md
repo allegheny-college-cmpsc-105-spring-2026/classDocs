@@ -253,6 +253,12 @@ Tokens have specific windows where they are usable. In some cases, a token may b
 
 In special circumstances, professors may allow students to earn additional tokens by completing specific objectives. See your course’s syllabus for more details about its token policy.
 
+Students in 105 are allotted four tokens to receive extensions on any assignment except the final with no questions asked by the course instructor except either in the rare cases of documented severe and/or extenuating circumstances or in cases that violate the CIS policy document or any College-approved policy.
+
+Tokens grant an automatic extension of one week to anything except the final exam.
+
+[Token Form for Automatic Extension](https://docs.google.com/forms/d/e/1FAIpQLSf9PWdus_ht_E-z99Ski3fJaicmyUVNVWA7xE7kqvFisrMvXg/viewform?usp=sharing&ouid=103917440767036558099)
+
 ### Illness and Emergencies
 
 An exception to the below: you should not come to class if you have a contagious illness like COVID-19, the flu, or a cold. If you have expended all your absences and tokens and are still sick with a contagious illness, you may contact your professor about options.  If your symptoms are mild or you are recovering from a respiratory illness, we recommend that you wear a mask to class.
