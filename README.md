@@ -58,7 +58,7 @@ This course will primarily focus on methods of data collection, foundational dat
 | Data Display - Types and Anatomy of a Chart | Week 2 | Reading: [Making Sense of Data II, Chapter 2, p. 19-32](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=427614&ppg=35&c=UERG) |
 | Data Distortion | Week 3 | |
 | Data Filtering | Week 4 | |
-| Interactive Display | Week 5 | |
+| Interactive Display | Week 5 | [Viz Gallery](https://www.tableau.com/viz-gallery) |
 | Data Gathering | Week 6 | |
 | Web Data Analytics and Scraping | Week 7 |  |
 | No Classes | Week 8 | Spring Break (Feb 28– Mar8) |
